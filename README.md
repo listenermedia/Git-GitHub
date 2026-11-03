@@ -9,7 +9,6 @@ Open `index.html` in a browser. No installation, build tools or external assets 
 ## Classroom materials
 
 - [Student guide](STUDENTS.md): manual file edits, Git commands, expected changes and publishing steps.
-- [Teacher guide](TEACHER.md): full-day schedule, checkpoints and PPT mapping.
 
 The portfolio uses semantic HTML and CSS, responsive layouts, keyboard focus styles and reduced-motion support. All illustration is created in CSS.
 
