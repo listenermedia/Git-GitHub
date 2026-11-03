@@ -104,7 +104,7 @@ In Explorer, create **index.html** next to README.md. Paste this complete code a
 
 ```
 
-Open index.html from Windows File Explorer in your browser. You should see a dark portfolio page with the Sanweer introduction, two project cards, About and Connect.
+Open index.html from Windows File Explorer in your browser. You should see a cream-and-green portfolio page with the Sanweer introduction, two project cards, About and Connect.
 
 Run:
 
@@ -295,3 +295,4 @@ PPT 11 clone, PPT 16 amend/reset/revert, PPT 24 rejected pushes, PPT 25–26 con
 - Website 404: check successful Pages deployment, the reported URL and that index.html is at the root of main.
 
 Never share passwords or tokens. Official references: https://git-scm.com/docs and https://docs.github.com/en/pages .
+
